@@ -32,14 +32,7 @@
   <version>2.3.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>OnlyOffice Connector - Parent POM</name>
-  <description>View, edit and collaborate real-time on text documents, spreadsheets and presentations. Comes with the OnlyOffice server preconfigured for testing. The app can be purchased individually or part of the XWiki Pro package. Try it free.</description>
-  <issueManagement>
-    <system>GitHub</system>
-    <url>https://github.com/xwikisas/application-onlyoffice-connector/issues</url>
-  </issueManagement>
-  <properties>
-    <licensing.version>1.25</licensing.version>
-  </properties>
+  <description>View, edit and collaborate real-time on text documents, spreadsheets and presentations. Comes with the OnlyOffice server preconfigured for testing.</description>
   <modules>
     <module>application-onlyoffice-connector-api</module>
     <module>application-onlyoffice-connector-ui</module>
